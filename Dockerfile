@@ -1,6 +1,6 @@
-MAINTAINER "Kyle Jackson"
-
 FROM python:3.9
+
+MAINTAINER "Kyle Jackson"
 
 WORKDIR /app
 
